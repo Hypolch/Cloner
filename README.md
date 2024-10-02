@@ -9,4 +9,7 @@ pkg install curl
 pip install requests
 pip install futures
 pip install rich
-git clone 
+git clone https://github.com/Hypolch/Cloner.git
+ls
+cd Shreya
+python lol.py
